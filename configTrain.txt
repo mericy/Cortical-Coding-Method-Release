@@ -1,0 +1,20 @@
+# window size
+8
+
+# epoch (train count)
+20
+
+# base string (the name for log and output)
+cortexTrain2sn_
+
+# rangeInit
+1000
+
+# rangeLimit
+150
+
+#tree save location
+@OUTPUT_FILE_PATH Example: Out\\
+
+# input wavelet dataset location
+@DATASET_FILE_PATH Example: Dataset\\train_2sn.txt
